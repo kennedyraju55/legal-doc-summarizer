@@ -1,0 +1,9 @@
+requests
+rich
+click
+PyPDF2
+pyyaml
+streamlit
+python-dotenv
+pytest
+pytest-cov
